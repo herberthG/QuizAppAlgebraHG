@@ -10,7 +10,20 @@
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
            android:id="@+id/greeting"
-           android:text=""/>
+           android:text="((2^2)^3)=2^5"
+           android:textSize="24dp"/>
+
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/submitButton"
+           android:text="True"/>
+
+       <Button
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:id="@+id/submitButton2"
+           android:text="False"/>
 
 
 
