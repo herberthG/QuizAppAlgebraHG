@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
         SubmitButton2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String message2 = "Good Job! you anwers is right";
+                String message2 = "Good Job! you answers is right";
                 Toast popUp = Toast.makeText( MainActivity.this, message2, Toast.LENGTH_LONG);
                 popUp.show();
                 score++;
