@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">aplicacionDeExamenDeAlgebra</string>
+
+    <string name="TrueButton">VERDADERO</string>
+
+    <string name="FalseButton">FALSO</string>
+
+    <string name="NextButton">PROXIMA</string>
+
+    <string name="BadMessage">RESPUESTA INCORRECTA</string>
+
+    <string name="GoodMessage">BUEN TRABAJO! TU RESPUESTA ES CORRECTA</string>
+
+    <string name="Score">PUNTUACION:</string>
+
+    <string name="CorrectQuestions">DE</string>
+
+</resources>

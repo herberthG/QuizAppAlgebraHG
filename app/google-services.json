@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "726314183081",
+    "firebase_url": "https://quizappalgebrahg.firebaseio.com",
+    "project_id": "quizappalgebrahg",
+    "storage_bucket": "quizappalgebrahg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726314183081:android:0604f9cbf2d3c7012b3cb8",
+        "android_client_info": {
+          "package_name": "com.pattersonhs.hgomez.quizappalgebrahg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726314183081-e48igrblupifh6qdaghtc1dmsjfrnlam.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pattersonhs.hgomez.quizappalgebrahg",
+            "certificate_hash": "5379a473db9d6585d7973f483a2bd7c207ebe293"
+          }
+        },
+        {
+          "client_id": "726314183081-pd9kes5v0gccibd1fhkhk2qfc7f1kqd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnwZiEJwJ4_ccifA6nVmmyxRlEbDY2Mbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726314183081-pd9kes5v0gccibd1fhkhk2qfc7f1kqd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

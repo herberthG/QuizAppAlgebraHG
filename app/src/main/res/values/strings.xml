@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">QuizAppAlgebraHG</string>
+    <string name="TrueButton">TRUE</string>
+    <string name="FalseButton">FALSE</string>
+    <string name="NextButton">NEXT</string>
+    <string name="BadMessage">WRONG ANSWERS</string>
+    <string name="GoodMessage">GOOD JOB! YOU ANSWER IS RIGHT</string>
+    <string name="Score">SCORE:</string>
+    <string name="CorrectQuestions">OUT OF</string>
+
 </resources>
