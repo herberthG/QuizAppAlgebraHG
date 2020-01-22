@@ -4,25 +4,28 @@
        android:layout_width="match_parent"
        android:orientation="vertical"
        android:gravity="center"
-       android:background="#700"
+       android:background="@android:color/holo_blue_dark"
        xmlns:android="http://schemas.android.com/apk/res/android">
 
        <TextView
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
            android:id="@+id/greeting"
+           android:background="@android:color/white"
            android:text="((2^2)^3)=2^5"
            android:textSize="24dp"/>
 
        <Button
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
+           android:background="@android:color/holo_green_dark"
            android:id="@+id/submitButton"
            android:text="@string/TrueButton"/>
 
        <Button
            android:layout_width="wrap_content"
            android:layout_height="wrap_content"
+           android:background="@android:color/holo_red_dark"
            android:id="@+id/submitButton2"
            android:text="@string/FalseButton"/>
 
@@ -30,6 +33,7 @@
         android:id="@+id/next"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:background="@android:color/holo_purple"
         android:text="@string/NextButton" />
 
 

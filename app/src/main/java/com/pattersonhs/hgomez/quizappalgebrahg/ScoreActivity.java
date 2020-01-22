@@ -15,6 +15,7 @@ public class ScoreActivity extends AppCompatActivity {
     TextView scoreTV;
     EditText usernameET;
     Button sendBT;
+    Button RestartBT;
 
 
     @Override
@@ -25,6 +26,7 @@ public class ScoreActivity extends AppCompatActivity {
         scoreTV = (TextView) findViewById(R.id.FinalScore);
         usernameET = (EditText) findViewById(R.id.UserName);
         sendBT = (Button) findViewById(R.id.UserNameSend);
+        RestartBT = (Button) findViewById(R.id.Restart);
 
 
 
@@ -42,9 +44,9 @@ public class ScoreActivity extends AppCompatActivity {
 
                 String UserName= usernameET.getEditableText().toString();
 
-                HScore Score = new HScore(UserName,score); 
+                HScore Score = new HScore(UserName,score);
 
-                myRef.setValue();
+                myRef.setValue(score);
             }
         });
 

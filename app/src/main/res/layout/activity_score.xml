@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:background="#150"
+    android:background="@android:color/holo_orange_dark"
     xmlns:android="http://schemas.android.com/apk/res/android">
 
 
@@ -53,6 +53,14 @@
         android:text="Send"
         android:id="@+id/UserNameSend"
         android:textSize="25dp"/>
+
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Restart"
+        android:id="@+id/Restart"
+        android:textSize="23dp"/>
 
 
 
